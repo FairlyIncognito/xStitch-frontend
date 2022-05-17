@@ -1,3 +1,3 @@
-# Nuxt 3 CMS Frontend
+## xStitch CMS - Nuxt 3 Frontend
 
-Look at the [backend](https://github.com/FairlyIncognito/xStitch).
+Have a look at the [backend](https://github.com/FairlyIncognito/xStitch).
